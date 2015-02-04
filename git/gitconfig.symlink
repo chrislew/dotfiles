@@ -4,7 +4,7 @@
 [core]
     autocrlf = input
     editor = vim 
-	excludesfile = /Users/cdoolittle/.gitignore_global
+	excludesfile = /Users/clewis/.gitignore_global
 [alias]
     co = checkout
     ci = commit
